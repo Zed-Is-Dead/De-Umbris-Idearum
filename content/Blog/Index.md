@@ -17,3 +17,5 @@ longform:
 	- [[Hyper-parameter tuning with Bayesian techniques]]
 	- [[Feature Selection Methods]]
 	- [[Automated Data Science]]
+- 2022
+	- [[Time Series in Python and R]]
