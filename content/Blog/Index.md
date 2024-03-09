@@ -19,3 +19,10 @@ longform:
 	- [[Automated Data Science]]
 - 2022
 	- [[Time Series in Python and R]]
+	- [[Machine Learning Model Interpretation]]
+	- [[Clustering High Dimensional Data]]
+	- [[Quantum Algorithms for Machine Learning]]
+- 2023
+	- [[Advanced Analytics]]
+	- [[Singular Spectrum Analysis]]
+
