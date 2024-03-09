@@ -14,3 +14,6 @@ longform:
 
 - 2021
 	- [[Pipeline Inspection Analytics]]
+	- [[Hyper-parameter tuning with Bayesian techniques]]
+	- [[Feature Selection Methods]]
+	- [[Automated Data Science]]
