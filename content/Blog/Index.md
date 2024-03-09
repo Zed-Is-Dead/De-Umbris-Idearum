@@ -8,3 +8,9 @@ longform:
   ignoredFiles:
     - Untitled
 ---
+
+# Reports
+---
+
+- 2021
+	- [[Pipeline Inspection Analytics]]
