@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Laurent Querella's second brain
 ---
 
-This is a blank Quartz installation.
+This blog was made with Quartz and Obsidian.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
