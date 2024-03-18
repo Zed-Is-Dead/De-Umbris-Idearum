@@ -2,6 +2,9 @@
 title: Time Series in Python and R
 draft: false
 tags: 
+- TimeSeries
+- python
+- R
 description: 
 date: 2022-04-01
 ---

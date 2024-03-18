@@ -1,7 +1,8 @@
 ---
 title: Advanced Analytics
 draft: false
-tags: 
+tags:
+  - DataScience
 description: 
 date: 2023-03-11
 ---

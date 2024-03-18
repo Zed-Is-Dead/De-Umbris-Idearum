@@ -1,7 +1,11 @@
 ---
 title: Pipeline Inspection Analytics
 draft: false
-tags: 
+tags:
+  - DataScience
+  - Usecase
+  - Energy
+  - Risk
 description: Learning from weak signals to predict the degradation risk level
 date: 20210316
 ---

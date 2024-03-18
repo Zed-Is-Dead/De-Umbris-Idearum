@@ -25,4 +25,8 @@ longform:
 - 2023
 	- [[Advanced Analytics]]
 	- [[Singular Spectrum Analysis]]
+	- [[Pressure Drop in Heat Exchangers]]
+
+- 2024
+	- soon available
 

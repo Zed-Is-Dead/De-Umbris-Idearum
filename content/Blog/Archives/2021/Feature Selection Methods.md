@@ -1,7 +1,7 @@
 ---
 title: Feature Selection Methods
 draft: true
-tags: 
+tags: DataScience
 description: 
 date: 2021-09-02
 ---

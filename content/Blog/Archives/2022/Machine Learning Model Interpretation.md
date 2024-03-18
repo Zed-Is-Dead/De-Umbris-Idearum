@@ -1,7 +1,11 @@
 ---
 title: Machine Learning Model Interpretation
 draft: false
-tags: 
+tags:
+  - DataScience
+  - MachineLearning
+  - Interpretation
+  - python
 description: 
 date: 2022-08-27
 ---

@@ -1,7 +1,9 @@
 ---
 title: Singular Spectrum Analysis
 draft: false
-tags: 
+tags:
+  - DataScience
+  - TimeSeries
 description: 
 date: 2023-07-02
 ---

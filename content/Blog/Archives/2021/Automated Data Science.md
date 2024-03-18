@@ -1,7 +1,10 @@
 ---
 title: Automated Data Science
 draft: false
-tags: 
+tags:
+  - AutoML
+  - DataScience
+  - MachineLearning
 description: 
 date: 2021-12-30
 ---

@@ -1,7 +1,11 @@
 ---
 title: Quantum Algorithms for Machine Learning
 draft: true
-tags: 
+tags:
+  - quantum
+  - textbook
+  - algorithm
+  - MachineLearning
 description: A practical guide to implementing quantum machine learning algorithms in Python
 date: 2022-12-25
 ---
