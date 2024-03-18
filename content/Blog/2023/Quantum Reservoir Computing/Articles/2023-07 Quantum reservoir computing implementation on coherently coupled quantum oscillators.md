@@ -8,7 +8,8 @@ tags:
 date: 2023-07-18
 ---
 
-2023-07 Quantum reservoir computing implementation on coherently coupled quantum oscillators
+# Quantum reservoir computing implementation on coherently coupled quantum oscillators
+---
 
 [Dudas, J., Carles, B., Plouet, E. _et al._ Quantum reservoir computing implementation on coherently coupled quantum oscillators. _npj Quantum Inf_ **9**, 64 (2023)](https://doi.org/10.1038/s41534-023-00734-4)
 
