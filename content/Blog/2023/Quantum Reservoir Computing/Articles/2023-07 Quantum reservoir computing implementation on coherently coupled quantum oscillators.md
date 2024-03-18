@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Quantum reservoir computing implementation on coherently coupled quantum oscillators
 tags:
   - algorithm
   - MachineLearning
